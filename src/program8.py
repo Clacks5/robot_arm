@@ -84,14 +84,14 @@ def zero_division_check(val):
 	print("zero_division_check...", end=" ")
 	
 	if np.abs(val) < 0.001:
-		raise ZError("zero_division error")
+		raise ZeroDivisionError("zero_division error")
 
 	print("OK\n")
 def sqrt_check(val):
 	print("sqrt_check...", end=" ")
 	
 	if val < 0:
-		raise ZError("sqrt error")
+		raise SqrtError("sqrt error")
 
 	print("OK\n")
 
