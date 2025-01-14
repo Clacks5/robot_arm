@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.12.20)  14 JAN 2025 08:28
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2024.12.20)  14 JAN 2025 11:05
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/home/haruru/OUMail/知能システム学実験B/robot_arm/report/report
@@ -1844,25 +1844,66 @@ Package biblatex Info: ... file 'report.bbl' not found.
 No file report.bbl.
 Package biblatex Info: Reference section=0 on input line 128.
 Package biblatex Info: Reference segment=0 on input line 128.
-(load cache: extra_lmroman12-regular.luc)
+
+warning  (file ../実験レポート表紙.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+<../実験レポート表紙.pdf, id=4, 597.53633pt x 845.04684pt>
+File: ../実験レポート表紙.pdf Graphic file (type pdf)
+<use ../実験レポート表紙.pdf>
+Package luatex.def Info: ../実験レポート表紙.pdf  used on input line 129.
+(luatex.def)             Requested size: 597.53487pt x 845.04478pt.
+
+warning  (file ../実験レポート表紙.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+File: ../実験レポート表紙.pdf Graphic file (type pdf)
+<use ../実験レポート表紙.pdf>
+Package luatex.def Info: ../実験レポート表紙.pdf  used on input line 129.
+(luatex.def)             Requested size: 597.53487pt x 845.04478pt.
+
+warning  (file ../実験レポート表紙.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+
+warning  (file ../実験レポート表紙.pdf) (pdf inclusion): PDF inclusion: found PDF version '1.7', but at most version '1.5' allowed
+<../実験レポート表紙.pdf, id=7, page=1, 597.53633pt x 845.04684pt>
+File: ../実験レポート表紙.pdf Graphic file (type pdf)
+<use ../実験レポート表紙.pdf, page 1>
+Package luatex.def Info: ../実験レポート表紙.pdf , page1 used on input line 129.
+(luatex.def)             Requested size: 597.53487pt x 845.04478pt.
+File: ../実験レポート表紙.pdf Graphic file (type pdf)
+<use ../実験レポート表紙.pdf, page 1>
+Package luatex.def Info: ../実験レポート表紙.pdf , page1 used on input line 129.
+(luatex.def)             Requested size: 597.56221pt x 845.08347pt.
+File: ../実験レポート表紙.pdf Graphic file (type pdf)
+<use ../実験レポート表紙.pdf, page 1>
+Package luatex.def Info: ../実験レポート表紙.pdf , page1 used on input line 129.
+(luatex.def)             Requested size: 597.56221pt x 845.08347pt.
+File: ../実験レポート表紙.pdf Graphic file (type pdf)
+<use ../実験レポート表紙.pdf, page 1>
+Package luatex.def Info: ../実験レポート表紙.pdf , page1 used on input line 129.
+(luatex.def)             Requested size: 597.56221pt x 845.08347pt.
+File: ../実験レポート表紙.pdf Graphic file (type pdf)
+<use ../実験レポート表紙.pdf, page 1>
+Package luatex.def Info: ../実験レポート表紙.pdf , page1 used on input line 129.
+(luatex.def)             Requested size: 597.56221pt x 845.08347pt.
+[1
+
+
+<../実験レポート表紙.pdf>](load cache: extra_lmroman12-regular.luc)
 LaTeX Font Info:    Font shape `JT3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 132.
+(Font)              scaled to size 13.31586pt on input line 134.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 132.
+(Font)              scaled to size 13.31586pt on input line 134.
 LaTeX Font Info:    Font shape `JT3/IPAExGothic(0)/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 132.
+(Font)              scaled to size 13.31586pt on input line 134.
 LaTeX Font Info:    Font shape `JY3/IPAExGothic(0)/m/n' will be
-(Font)              scaled to size 13.31586pt on input line 132.
+(Font)              scaled to size 13.31586pt on input line 134.
 (load cache: extra_lmsans12-regular.luc)(load cache: extra_lmroman9-regular.luc)
 LaTeX Font Info:    Font shape `JT3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 150.
+(Font)              scaled to size 8.32242pt on input line 152.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 150.
+(Font)              scaled to size 8.32242pt on input line 152.
 (load cache: extra_lmroman9-bold.luc)
 LaTeX Font Info:    Font shape `JT3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 8.32242pt on input line 150.
+(Font)              scaled to size 8.32242pt on input line 152.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 8.32242pt on input line 150.
+(Font)              scaled to size 8.32242pt on input line 152.
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1873,42 +1914,42 @@ LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
 > Step: build the whole table.
 (load cache: extra_lmroman7-regular.luc)(load cache: extra_lmroman5-regular.luc)
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 158.
+(Font)              scaled to size 6.47299pt on input line 160.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 158.
-LaTeX Font Info:    Trying loading font information for U+msa on input line 158.
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+(Font)              scaled to size 4.62357pt on input line 160.
+LaTeX Font Info:    Trying loading font information for U+msa on input line 160.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying loading font information for U+msb on input line 158.
+LaTeX Font Info:    Trying loading font information for U+msb on input line 160.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 9.24713pt on input line 158.
+(Font)              scaled to size 9.24713pt on input line 160.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 6.47299pt on input line 158.
+(Font)              scaled to size 6.47299pt on input line 160.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 4.62357pt on input line 158.
+(Font)              scaled to size 4.62357pt on input line 160.
 LaTeX Font Info:    Font shape `JT3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 162.
+(Font)              scaled to size 11.09656pt on input line 164.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 162.
+(Font)              scaled to size 11.09656pt on input line 164.
 LaTeX Font Info:    Font shape `JT3/IPAExGothic(0)/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 162.
+(Font)              scaled to size 11.09656pt on input line 164.
 LaTeX Font Info:    Font shape `JY3/IPAExGothic(0)/m/n' will be
-(Font)              scaled to size 11.09656pt on input line 162.
+(Font)              scaled to size 11.09656pt on input line 164.
 (load cache: extra_lmroman6-regular.luc)
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 7.3977pt on input line 162.
+(Font)              scaled to size 7.3977pt on input line 164.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 5.54828pt on input line 162.
+(Font)              scaled to size 5.54828pt on input line 164.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 11.09656pt on input line 162.
+(Font)              scaled to size 11.09656pt on input line 164.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 7.3977pt on input line 162.
+(Font)              scaled to size 7.3977pt on input line 164.
 LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 5.54828pt on input line 162.
+(Font)              scaled to size 5.54828pt on input line 164.
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1917,29 +1958,27 @@ LaTeX Font Info:    Font shape `JY3/IPAExMincho(0)/b/n' will be
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
-<../figures/robot_arm_0.png, id=4, 215.80624pt x 671.50874pt>
+<../figures/robot_arm_0.png, id=19, 215.80624pt x 671.50874pt>
 File: ../figures/robot_arm_0.png Graphic file (type png)
 <use ../figures/robot_arm_0.png>
-Package luatex.def Info: ../figures/robot_arm_0.png  used on input line 183.
+Package luatex.def Info: ../figures/robot_arm_0.png  used on input line 185.
 (luatex.def)             Requested size: 152.24274pt x 473.74162pt.
 LaTeX Font Info:    Font shape `JT3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 7.3977pt on input line 184.
+(Font)              scaled to size 7.3977pt on input line 186.
 (load cache: extra_lmroman8-bold.luc)
 LaTeX Font Info:    Font shape `JT3/IPAExMincho(0)/b/n' will be
-(Font)              scaled to size 7.3977pt on input line 184.
-<../results/robot_arm_DH.jpg, id=5, 1085.05376pt x 3348.51pt>
+(Font)              scaled to size 7.3977pt on input line 186.
+<../results/robot_arm_DH.jpg, id=20, 1085.05376pt x 3348.51pt>
 File: ../results/robot_arm_DH.jpg Graphic file (type jpg)
 <use ../results/robot_arm_DH.jpg>
-Package luatex.def Info: ../results/robot_arm_DH.jpg  used on input line 190.
+Package luatex.def Info: ../results/robot_arm_DH.jpg  used on input line 192.
 (luatex.def)             Requested size: 152.24274pt x 469.81009pt.
 
-Overfull \hbox (5.87177pt too wide) in paragraph at lines 180--195
+Overfull \hbox (5.87177pt too wide) in paragraph at lines 182--197
  [][][][] 
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2<../figures/robot_arm_0.png><../results/robot_arm_DH.jpg>]
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2<../figures/robot_arm_0.png><../results/robot_arm_DH.jpg>]
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -1949,32 +1988,32 @@ Overfull \hbox (5.87177pt too wide) in paragraph at lines 180--195
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
  [3](load cache: extra_lmsans10-regular.luc)(load cache: extra_lmsans8-regular.luc) [4]
-Overfull \hbox (24.45944pt too wide) detected at line 326
+Overfull \hbox (24.45944pt too wide) detected at line 328
 [][]
  []
 
-<../results/program2.png, id=41, 462.528pt x 346.896pt>
+<../results/program2.png, id=54, 462.528pt x 346.896pt>
 File: ../results/program2.png Graphic file (type png)
 <use ../results/program2.png>
-Package luatex.def Info: ../results/program2.png  used on input line 334.
+Package luatex.def Info: ../results/program2.png  used on input line 336.
 (luatex.def)             Requested size: 226.55472pt x 169.91699pt.
 (load cache: extra_lmsans9-regular.luc) [5<../results/program2.png>](load cache: extra_lmmono10-regular.luc)
 LaTeX Font Info:    Font shape `JT3/IPAExGothic(0)/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 346.
+(Font)              scaled to size 9.24713pt on input line 348.
 LaTeX Font Info:    Font shape `JY3/IPAExGothic(0)/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 346.
+(Font)              scaled to size 9.24713pt on input line 348.
 (load cache: extra_lmmono8-regular.luc)
 LaTeX Font Info:    Font shape `JT3/IPAExGothic(0)/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 346.
+(Font)              scaled to size 6.47299pt on input line 348.
 LaTeX Font Info:    Font shape `JY3/IPAExGothic(0)/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 346.
+(Font)              scaled to size 6.47299pt on input line 348.
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
 Inserting `ltj.process_input_buffer' in `process_input_buffer'.
 LaTeX Font Info:    Font shape `JT3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 6.47299pt on input line 347.
+(Font)              scaled to size 6.47299pt on input line 349.
 LaTeX Font Info:    Font shape `JT3/IPAExMincho(0)/m/n' will be
-(Font)              scaled to size 4.62357pt on input line 347.
+(Font)              scaled to size 4.62357pt on input line 349.
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
@@ -1992,33 +2031,33 @@ Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
 Inserting `ltj.process_input_buffer' in `process_input_buffer'.
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
-<../results/program3_1.png, id=53, 462.528pt x 346.896pt>
+<../results/program3_1.png, id=66, 462.528pt x 346.896pt>
 File: ../results/program3_1.png Graphic file (type png)
 <use ../results/program3_1.png>
-Package luatex.def Info: ../results/program3_1.png  used on input line 376.
+Package luatex.def Info: ../results/program3_1.png  used on input line 378.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
-<../results/program3_2.png, id=54, 462.528pt x 346.896pt>
+<../results/program3_2.png, id=67, 462.528pt x 346.896pt>
 File: ../results/program3_2.png Graphic file (type png)
 <use ../results/program3_2.png>
-Package luatex.def Info: ../results/program3_2.png  used on input line 382.
+Package luatex.def Info: ../results/program3_2.png  used on input line 384.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
-<../results/program3_3.png, id=55, 462.528pt x 346.896pt>
+<../results/program3_3.png, id=68, 462.528pt x 346.896pt>
 File: ../results/program3_3.png Graphic file (type png)
 <use ../results/program3_3.png>
-Package luatex.def Info: ../results/program3_3.png  used on input line 388.
+Package luatex.def Info: ../results/program3_3.png  used on input line 390.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
-<../results/program3_4.png, id=56, 462.528pt x 346.896pt>
+<../results/program3_4.png, id=69, 462.528pt x 346.896pt>
 File: ../results/program3_4.png Graphic file (type png)
 <use ../results/program3_4.png>
-Package luatex.def Info: ../results/program3_4.png  used on input line 394.
+Package luatex.def Info: ../results/program3_4.png  used on input line 396.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
-<../results/program3_5.png, id=57, 462.528pt x 346.896pt>
+<../results/program3_5.png, id=70, 462.528pt x 346.896pt>
 File: ../results/program3_5.png Graphic file (type png)
 <use ../results/program3_5.png>
-Package luatex.def Info: ../results/program3_5.png  used on input line 400.
+Package luatex.def Info: ../results/program3_5.png  used on input line 402.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
 
-Overfull \hbox (5.87177pt too wide) in paragraph at lines 373--405
+Overfull \hbox (5.87177pt too wide) in paragraph at lines 375--407
  [][][][] 
  []
 
@@ -2039,24 +2078,24 @@ Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
 Inserting `ltj.process_input_buffer' in `process_input_buffer'.
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
-<../figures/robot_arm_constraints.png, id=71, 448.67625pt x 356.33125pt>
+<../figures/robot_arm_constraints.png, id=84, 448.67625pt x 356.33125pt>
 File: ../figures/robot_arm_constraints.png Graphic file (type png)
 <use ../figures/robot_arm_constraints.png>
-Package luatex.def Info: ../figures/robot_arm_constraints.png  used on input line 444.
+Package luatex.def Info: ../figures/robot_arm_constraints.png  used on input line 446.
 (luatex.def)             Requested size: 339.83208pt x 269.89568pt.
  [8]
-<../figures/figures-theta1_py>0_edit.drawio.png, id=76, 368.37625pt x 248.93pt>
+<../figures/figures-theta1_py>0_edit.drawio.png, id=89, 368.37625pt x 248.93pt>
 File: ../figures/figures-theta1_py>0_edit.drawio.png Graphic file (type png)
 <use ../figures/figures-theta1_py>0_edit.drawio.png>
-Package luatex.def Info: ../figures/figures-theta1_py>0_edit.drawio.png  used on input line 476.
+Package luatex.def Info: ../figures/figures-theta1_py>0_edit.drawio.png  used on input line 478.
 (luatex.def)             Requested size: 208.79242pt x 141.0901pt.
-<../figures/figures-theta1_py<=0_edit.drawio.png, id=77, 446.66875pt x 269.005pt>
+<../figures/figures-theta1_py<=0_edit.drawio.png, id=90, 446.66875pt x 269.005pt>
 File: ../figures/figures-theta1_py<=0_edit.drawio.png Graphic file (type png)
 <use ../figures/figures-theta1_py<=0_edit.drawio.png>
-Package luatex.def Info: ../figures/figures-theta1_py<=0_edit.drawio.png  used on input line 483.
+Package luatex.def Info: ../figures/figures-theta1_py<=0_edit.drawio.png  used on input line 485.
 (luatex.def)             Requested size: 208.79242pt x 125.74687pt.
 
-Overfull \hbox (5.87177pt too wide) in paragraph at lines 473--488
+Overfull \hbox (5.87177pt too wide) in paragraph at lines 475--490
  [][][][] 
  []
 
@@ -2069,105 +2108,105 @@ Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
 Inserting `ltj.process_input_buffer' in `process_input_buffer'.
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
-<../results/program7_1.png, id=94, 462.528pt x 346.896pt>
+<../results/program7_1.png, id=107, 462.528pt x 346.896pt>
 File: ../results/program7_1.png Graphic file (type png)
 <use ../results/program7_1.png>
-Package luatex.def Info: ../results/program7_1.png  used on input line 625.
+Package luatex.def Info: ../results/program7_1.png  used on input line 627.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
-<../results/program7_2.png, id=95, 462.528pt x 346.896pt>
+<../results/program7_2.png, id=108, 462.528pt x 346.896pt>
 File: ../results/program7_2.png Graphic file (type png)
 <use ../results/program7_2.png>
-Package luatex.def Info: ../results/program7_2.png  used on input line 631.
+Package luatex.def Info: ../results/program7_2.png  used on input line 633.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
 
-Overfull \hbox (5.87177pt too wide) in paragraph at lines 622--635
+Overfull \hbox (5.87177pt too wide) in paragraph at lines 624--637
  [][][][] 
  []
 
 [12]
-<../results/program8_1.png, id=99, 462.528pt x 346.896pt>
+<../results/program8_1.png, id=112, 462.528pt x 346.896pt>
 File: ../results/program8_1.png Graphic file (type png)
 <use ../results/program8_1.png>
-Package luatex.def Info: ../results/program8_1.png  used on input line 651.
+Package luatex.def Info: ../results/program8_1.png  used on input line 653.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
-<../results/program8_2.png, id=100, 462.528pt x 346.896pt>
+<../results/program8_2.png, id=113, 462.528pt x 346.896pt>
 File: ../results/program8_2.png Graphic file (type png)
 <use ../results/program8_2.png>
-Package luatex.def Info: ../results/program8_2.png  used on input line 657.
+Package luatex.def Info: ../results/program8_2.png  used on input line 659.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
-<../results/program8_3.png, id=101, 462.528pt x 346.896pt>
+<../results/program8_3.png, id=114, 462.528pt x 346.896pt>
 File: ../results/program8_3.png Graphic file (type png)
 <use ../results/program8_3.png>
-Package luatex.def Info: ../results/program8_3.png  used on input line 663.
+Package luatex.def Info: ../results/program8_3.png  used on input line 665.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
-<../results/program8_4.png, id=102, 462.528pt x 346.896pt>
+<../results/program8_4.png, id=115, 462.528pt x 346.896pt>
 File: ../results/program8_4.png Graphic file (type png)
 <use ../results/program8_4.png>
-Package luatex.def Info: ../results/program8_4.png  used on input line 669.
+Package luatex.def Info: ../results/program8_4.png  used on input line 671.
 (luatex.def)             Requested size: 208.79242pt x 156.59401pt.
 
-Overfull \hbox (5.87177pt too wide) in paragraph at lines 648--673
+Overfull \hbox (5.87177pt too wide) in paragraph at lines 650--675
  [][][][] 
  []
 
 [13<../results/program7_1.png><../results/program7_2.png>]
-<../results/program10_1.jpg, id=108, 1927.2pt x 1084.05pt>
+<../results/program10_1.jpg, id=121, 1927.2pt x 1084.05pt>
 File: ../results/program10_1.jpg Graphic file (type jpg)
 <use ../results/program10_1.jpg>
-Package luatex.def Info: ../results/program10_1.jpg  used on input line 686.
+Package luatex.def Info: ../results/program10_1.jpg  used on input line 688.
 (luatex.def)             Requested size: 208.79242pt x 117.44287pt.
-<../results/program10_2.jpg, id=109, 1927.2pt x 1084.05pt>
+<../results/program10_2.jpg, id=122, 1927.2pt x 1084.05pt>
 File: ../results/program10_2.jpg Graphic file (type jpg)
 <use ../results/program10_2.jpg>
-Package luatex.def Info: ../results/program10_2.jpg  used on input line 692.
+Package luatex.def Info: ../results/program10_2.jpg  used on input line 694.
 (luatex.def)             Requested size: 208.79242pt x 117.44287pt.
-<../results/program10_3.jpg, id=110, 1927.2pt x 1084.05pt>
+<../results/program10_3.jpg, id=123, 1927.2pt x 1084.05pt>
 File: ../results/program10_3.jpg Graphic file (type jpg)
 <use ../results/program10_3.jpg>
-Package luatex.def Info: ../results/program10_3.jpg  used on input line 698.
+Package luatex.def Info: ../results/program10_3.jpg  used on input line 700.
 (luatex.def)             Requested size: 208.79242pt x 117.44287pt.
-<../results/program10_4.jpg, id=111, 1927.2pt x 1084.05pt>
+<../results/program10_4.jpg, id=124, 1927.2pt x 1084.05pt>
 File: ../results/program10_4.jpg Graphic file (type jpg)
 <use ../results/program10_4.jpg>
-Package luatex.def Info: ../results/program10_4.jpg  used on input line 704.
+Package luatex.def Info: ../results/program10_4.jpg  used on input line 706.
 (luatex.def)             Requested size: 208.79242pt x 117.44287pt.
 
-Overfull \hbox (5.87177pt too wide) in paragraph at lines 683--708
+Overfull \hbox (5.87177pt too wide) in paragraph at lines 685--710
  [][][][] 
  []
 
-[14<../results/program8_1.png><../results/program8_2.png><../results/program8_3.png><../results/program8_4.png>]
+[14<../results/program8_1.png><../results/program8_2.png><../results/program8_3.png><../results/program8_4.png>] [15<../results/program10_1.jpg><../results/program10_2.jpg><../results/program10_3.jpg><../results/program10_4.jpg>]
 
-LaTeX Warning: Empty bibliography on input line 712.
+LaTeX Warning: Empty bibliography on input line 731.
 
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
-Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/calc_forward_kinematics.py [15<../results/program10_1.jpg><../results/program10_2.jpg><../results/program10_3.jpg><../results/program10_4.jpg>])
+Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/calc_forward_kinematics.py)
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
-Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program2.py [16])
+Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program2.py [16] [17])
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
-Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program3.py [17] [18])
-Removing  `ltj.listings_unicode' from `process_input_buffer'. [19]
+Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program3.py [18] [19])
+Removing  `ltj.listings_unicode' from `process_input_buffer'.
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
 Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program4.py [20] [21])
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
-Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program7.py [22] [23])
+Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program7.py [22] [23] [24])
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
-Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program8.py [24] [25] [26])
+Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program8.py [25] [26])
 Removing  `ltj.listings_unicode' from `process_input_buffer'.
 Removing  `ltj.process_input_buffer' from `process_input_buffer'.
 Inserting `ltj.listings_unicode' in `process_input_buffer'.
-Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program10.py [27] [28])
-Removing  `ltj.listings_unicode' from `process_input_buffer'. [29] (./report.aux)
+Inserting `ltj.process_input_buffer' in `process_input_buffer'. (../src/program10.py [27] [28] [29])
+Removing  `ltj.listings_unicode' from `process_input_buffer'. [30] (./report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -2178,19 +2217,19 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 60002 strings out of 476553
- 1458250,2848258 words of node,token memory allocated
+ 60037 strings out of 476553
+ 1458190,2848258 words of node,token memory allocated
  1312 words of node memory still in use:
    12 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 262 attribute, 74 glue_spec, 37 attribute_list, 2 write, 15 user_defined nodes
-   avail lists: 1:52,2:232559,3:719,4:32392,5:17319,6:160,7:27426,8:59,9:42092,10:66,11:1744
- 80825 multiletter control sequences out of 65536+600000
+   avail lists: 1:54,2:220720,3:871,4:32072,5:17180,6:160,7:24922,8:59,9:41682,10:66,11:1726
+ 80839 multiletter control sequences out of 65536+600000
  132 fonts using 78937055 bytes
- 125i,22n,134p,1827b,1170s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,22n,134p,1827b,1168s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman5-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmsans8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/texlive/texmf-dist/fonts/truetype/public/ipaex/ipaexm.ttf></usr/share/texlive/texmf-dist/fonts/truetype/public/ipaex/ipaexg.ttf></usr/share/texmf/fonts/opentype/public/lm/lmsans12-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on report.pdf (29 pages, 2685841 bytes).
+Output written on report.pdf (31 pages, 2720622 bytes).
 
-PDF statistics: 308 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
+PDF statistics: 325 PDF objects out of 1000 (max. 8388607)
+ 189 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
